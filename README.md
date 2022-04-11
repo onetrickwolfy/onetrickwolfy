@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @onetrickwolfy
-- 👀 I’m interested in figuring myself out.
-- 🌱 I’m currently learning how to focus... just a little.
-- 📫 How to reach me @OneTrickWolfy on twitter
+![](https://pbs.twimg.com/profile_banners/1392194599175794688/1649188059/1500x500)
 
-<!---
-onetrickwolfy/onetrickwolfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Who is Gabey? 
+-  20 yo • Demi - 🏳️‍🌈 • CS Student 
+- 🇫🇷  • adhd alien ☄️ • He/him 🌸 
+- Big Fluffy Monster 🐺 • Hoping to return to 🇨🇦 
+- Super weird and dorky ⭐ 
+
+*Please be patient! I am trying my best*
+
+![GitHub metrics](https://metrics.lecoq.io/onetrickwolfy)  
+
