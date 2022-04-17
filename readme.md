@@ -14,20 +14,22 @@
 </div>
 &nbsp;
 
-
-
-<img height="200" align='right' src="https://raw.githubusercontent.com/onetrickwolfy/onetrickwolfy/main/assets/B3.png"/>&nbsp;
-## A few lists :0
+## A few lists 
+<img height="250" align='left' src="https://raw.githubusercontent.com/onetrickwolfy/onetrickwolfy/main/assets/B3.png"/>&nbsp;
 + **Bullet journal** : 
 [Daily log](bullet-journal/daily-log.md) - 
 [Monthly log](bullet-journal/monthly-log.md) - 
 [Future log](bullet-journal/future-log.md)
-
 + **years** : 
 [2021](lists/2021/) -
 [2021](lists/2022/) 
-
 + **Misc** : [My Bucket List](lists/bucket-list.md)
 
-## <img height="50" src="https://raw.githubusercontent.com/onetrickwolfy/onetrickwolfy/main/assets/Confused_Dog.gif"/> Links
+
+<br /><br /><br /><br /><br />
+
+## Misc. 
+<img height="250" align='right' src="https://raw.githubusercontent.com/onetrickwolfy/onetrickwolfy/main/assets/B4.png"/>&nbsp;
++ Discover My Fursonas: [Gabey]() | [Phobos]()
+
 
