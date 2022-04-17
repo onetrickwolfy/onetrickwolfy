@@ -7,12 +7,12 @@
 
 <div align='center'>
   <h1>(っ◔◡◔)っ ♥ Who is Gabey? ♥</h1>
+  <p><i>Please be patient! I am trying my best. Recovering from burn out ain't fun.</i></p>
   <img src="https://pbs.twimg.com/profile_banners/1392194599175794688/1649188059/1500x500" />
   <br><br>
   <p>20 yo • Demi - 🏳️‍🌈 • CS Student • 🇫🇷  • adhd alien ☄️ • He/him 🌸 </p>
   <p>Big Fluffy Monster 🐺 • Hoping to return to 🇨🇦</p>
   <p>Super weird and dorky ⭐</p>
-  <p><i>Please be patient! I am trying my best. Recovering from burn out ain't fun.</i></p>
 </div>&nbsp;
 
 ## A few lists 
