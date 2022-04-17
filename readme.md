@@ -35,3 +35,11 @@
 + Use my [telegram stickers](https://bit.ly/3rt9R56) on telegram 
 + Discover [my crappy website](https://onetrickwolfy.me)
 + Some [music](https://www.youtube.com/watch?v=YITP0roprFM) just for ya!
+
+<br /><br /><br /><br /><br /><br />
+
+## Wolf.
+<img  align='center' src="https://api.tinyfox.dev/img?animal=wolf"/>&nbsp;
+
+
+
