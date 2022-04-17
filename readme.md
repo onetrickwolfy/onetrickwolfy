@@ -8,7 +8,11 @@
 
 *Please be patient! I am trying my best*
 
-[Link text](bullet-journal/daily-log.md)
+### Bullet journal
+**04/22 to 10/22**: 
+[Daily log](bullet-journal/daily-log.md) - 
+[Monthly log](bullet-journal/monthly-log.md) - 
+[Future log](bullet-journal/future-log.md)
 
 ![GitHub metrics](https://metrics.lecoq.io/onetrickwolfy)  
 
