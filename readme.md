@@ -12,7 +12,7 @@
   <p>20 yo • Demi - 🏳️‍🌈 • CS Student • 🇫🇷  • adhd alien ☄️ • He/him 🌸 </p>
   <p>Big Fluffy Monster 🐺 • Hoping to return to 🇨🇦</p>
   <p>Super weird and dorky ⭐</p>
-  <p><i>Please be patient! I am trying my best</i></p>
+  <p><i>Please be patient! I am trying my best. Recovering from burn out ain't fun.</i></p>
 </div>&nbsp;
 
 ## A few lists 
