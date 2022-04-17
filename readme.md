@@ -39,7 +39,9 @@
 <br /><br /><br /><br /><br /><br />
 
 ## Wolf.
-<img  align='center' src="https://api.tinyfox.dev/img?animal=wolf"/>&nbsp;
+<div align='center'>
+  <img   src="https://api.tinyfox.dev/img?animal=wolf"/>&nbsp;
+</div>
 
 
 
