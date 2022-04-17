@@ -9,7 +9,7 @@
 *Please be patient! I am trying my best*
 
 ### Bullet journal
-**04/22 to 10/22**: 
++ **04/22 to 10/22**: 
 [Daily log](bullet-journal/daily-log.md) - 
 [Monthly log](bullet-journal/monthly-log.md) - 
 [Future log](bullet-journal/future-log.md)
