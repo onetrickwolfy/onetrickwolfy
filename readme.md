@@ -30,6 +30,6 @@
 <img height="250" align='right' src="https://raw.githubusercontent.com/onetrickwolfy/onetrickwolfy/main/assets/B4.png"/>&nbsp;
 + Discover My Fursonas : [Gabey]() - [Phobos]()
 + Use my [stickers](https://bit.ly/3rt9R56) on telegram 
-+ Discover my (crappy)[website](https://onnetrickwolfy.me).
++ Discover my (crappy) [website](https://onnetrickwolfy.me).
 
 
