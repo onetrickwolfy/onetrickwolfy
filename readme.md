@@ -41,6 +41,7 @@
 ## Wolf.
 <div align='center'>
   <img   src="https://api.tinyfox.dev/img?animal=wolf"/>&nbsp;
+  <legend>Picture from <a href='https://tinyfox.dev/'>tinyfox.dev</a></legend>
 </div>
 
 
