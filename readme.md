@@ -4,15 +4,13 @@
 
 <div align='center'>
   <h1>(っ◔◡◔)っ ♥ Who is Gabey? ♥</h1>
-  
   <img src="https://pbs.twimg.com/profile_banners/1392194599175794688/1649188059/1500x500" />
   <br><br>
   <p>20 yo • Demi - 🏳️‍🌈 • CS Student • 🇫🇷  • adhd alien ☄️ • He/him 🌸 </p>
   <p>Big Fluffy Monster 🐺 • Hoping to return to 🇨🇦</p>
   <p>Super weird and dorky ⭐</p>
   <p><i>Please be patient! I am trying my best</i></p>
-</div>
-&nbsp;
+</div>&nbsp;
 
 ## A few lists 
 <img height="250" align='left' src="https://raw.githubusercontent.com/onetrickwolfy/onetrickwolfy/main/assets/B3.png"/>&nbsp;
