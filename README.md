@@ -8,6 +8,8 @@
 
 *Please be patient! I am trying my best*
 
+[Link text](bullet-journal/daily-log.md)
+
 ![GitHub metrics](https://metrics.lecoq.io/onetrickwolfy)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=onetrickwolfy)  
