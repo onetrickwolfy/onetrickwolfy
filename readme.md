@@ -24,7 +24,7 @@
 + **Misc** : [My Bucket List](lists/bucket-list.md)
 
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
 ## Misc. 
 <img height="250" align='right' src="https://raw.githubusercontent.com/onetrickwolfy/onetrickwolfy/main/assets/B4.png"/>&nbsp;
