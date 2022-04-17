@@ -17,22 +17,24 @@
 
 ### A few lists :0
 #### years.
-- **2021** : 
++ **2021** : 
 [achievement](lists/2021/achievement.md) - 
 [movies-tv-shows](lists/2021/movies-tv-shows.md ) -
 [summary](lists/2021/summary.md) -
 [video-games](lists/2021/video-games.md)<br>
 
-- **2022** : 
++ **2022** : 
 [achievement](lists/2022/achievement.md) - 
 [movies-tv-shows](lists/2022/movies-tv-shows.md ) -
 [video-games](lists/2022/video-games.md)<br>
 
 #### misc. 
-- [My Bucket List](lists/bucket-list.md)
++ [My Bucket List](lists/bucket-list.md)
+
+
+## Stats.
 
 ![GitHub metrics](https://metrics.lecoq.io/onetrickwolfy)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=onetrickwolfy)  
-
 
