@@ -30,6 +30,7 @@
 
 ## Misc. 
 <img height="250" align='right' src="https://raw.githubusercontent.com/onetrickwolfy/onetrickwolfy/main/assets/B4.png"/>&nbsp;
-+ Discover My Fursonas: [Gabey]() | [Phobos]()
++ Discover My Fursonas: [Gabey]() - [Phobos]()
++ Use my [stickers](https://t.me/addstickers/onetrickwolfy) on telegram 
 
 
