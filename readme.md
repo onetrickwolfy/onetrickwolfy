@@ -1,4 +1,4 @@
-[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square)]()
+[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square)](https://www.youtube.com/channel/UCjEk_RuTxC9qRqNHSCD6Avg)
 [![Twitch](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square)](https://twitch.com/onetrickwolfy)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square)](https://twitter.com/onetrickwolfy)
 
