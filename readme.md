@@ -1,6 +1,6 @@
-[![](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square)](https://twitter.com/onetrickwolfy)
-[![](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square)]()
-[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square)]()
+[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square)]()
+[![Twitch](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square)]()
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square)](https://twitter.com/onetrickwolfy)
 
 <div align='center'>
   <h1>(っ◔◡◔)っ ♥ Who is Gabey? ♥</h1>
