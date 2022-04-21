@@ -1,1 +1,1 @@
-
+- Returning to college mid-semester and pass it despite doing practically nothing. 
