@@ -31,7 +31,7 @@
 
 ## Misc. 
 <img height="250" align='right' src="https://raw.githubusercontent.com/onetrickwolfy/onetrickwolfy/main/assets/B4.png"/>&nbsp;
-+ Discover My Fursonas : [Gabey](https://onetrickwolfy.me/fursona-gallery) - [Phobos](https://onetrickwolfy.me/fursona-gallery)
++ Discover My Fursonas : [Gabey](https://onetrickwolfy.me/fursona/gabey) - [Phobos](https://onetrickwolfy.me/fursona-gallery)
 + Use my [telegram stickers](https://bit.ly/3rt9R56) on telegram 
 + Discover [my crappy website](https://onetrickwolfy.me)
 + Some [music](https://www.youtube.com/watch?v=YITP0roprFM) just for ya!
