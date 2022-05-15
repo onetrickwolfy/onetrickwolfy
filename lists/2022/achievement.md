@@ -1,2 +1,3 @@
 - 21/04: Finished my [first project](https://github.com/onetrickwolfy/reddit-twitter-bot) in years. 
 - 25/04: Made two simple galleries for my fursonas.
+- 12/05: Made a simple yet decent text-based website
