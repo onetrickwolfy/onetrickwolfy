@@ -23,7 +23,7 @@
 [Future log](bullet-journal/future-log.md)
 + **years** : 
 [2021](lists/2021/) -
-[2021](lists/2022/) 
+[2022](lists/2022/) 
 + **Misc** : [My Bucket List](lists/bucket-list.md)
 
 
