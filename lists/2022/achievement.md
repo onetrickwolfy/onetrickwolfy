@@ -2,3 +2,4 @@
 - 25/04: Made two simple galleries for my fursonas.
 - 12/05: Made a simple yet decent text-based website
 - 28/05: Made [my first discord bot](https://github.com/onetrickwolfy/discord-quote-bot) discovering asyncronous programming. 
+- 31/05: Discovered PySimpleGUI and made a [quick discord-rpc GUI](https://github.com/onetrickwolfy/quick-discord-rpc-gui)
