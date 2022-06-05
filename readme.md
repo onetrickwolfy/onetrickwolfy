@@ -10,7 +10,7 @@
   <p><i>Please be patient! I am trying my best. Recovering from burn out ain't fun.</i></p>
   <img src="https://pbs.twimg.com/profile_banners/1392194599175794688/1651869142/1500x500" />
   <br><br>
-  <p>20 yo • Demi - 🏳️‍🌈 • CS Student • 🇫🇷  • adhd alien ☄️ • He/him 🌸 </p>
+  <p>21 yo • Demi - 🏳️‍🌈 • CS Student • 🇫🇷  • adhd alien ☄️ • He/him 🌸 </p>
   <p>Big Fluffy Monster 🐺 • Hoping to return to 🇨🇦</p>
   <p>Super weird and dorky ⭐</p>
 </div>&nbsp;
