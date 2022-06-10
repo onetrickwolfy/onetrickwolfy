@@ -23,7 +23,7 @@
 [2021](lists/2021/) -
 [2022](lists/2022/) 
 + **goals** : [My Bucket List](lists/bucket-list.md)
-+ **games* : *(completed) tbd* - *(wanna play) tbd*
++ **games** : *(completed) tbd* - *(wanna play) tbd*
 
 
 <br /><br /><br /><br /><br /><br />
