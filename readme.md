@@ -17,14 +17,13 @@
 
 ## A few lists 
 <img height="250" align='left' src="https://raw.githubusercontent.com/onetrickwolfy/onetrickwolfy/main/assets/B3.png"/>&nbsp;
-+ **Bullet journal** : 
-[Daily log](bullet-journal/daily-log.md) - 
-[Monthly log](bullet-journal/monthly-log.md) - 
-[Future log](bullet-journal/future-log.md)
++ **gears** : *tbd*
++ **videos** : *tbd*
 + **years** : 
 [2021](lists/2021/) -
 [2022](lists/2022/) 
-+ **Misc** : [My Bucket List](lists/bucket-list.md)
++ **goals** : [My Bucket List](lists/bucket-list.md)
+**games i want to complete** : *tbd*
 
 
 <br /><br /><br /><br /><br /><br />
